@@ -2,8 +2,8 @@
 
 #### Note: this is just basic exploratory work at the moment
 
-This contains the jupyter notebook file and data to run the CTGAN implementation.
-The notebook 'CTGAN_Data_1991CensusSARS-V2.ipynb') contains some basic data analysis and a few runs of CTGAN to explore what it can do
+This contains a jupyter notebook file and data to explore running the CTGAN implementation.
+The notebook ('CTGAN_Data_1991CensusSARS-V2.ipynb') contains some basic data analysis and a few runs of CTGAN to explore what it can do
 
 Data is from the Census 1991 Individual SARs data
 Study Number 7210 - Census 1991: Individual Sample of Anonymised Records for Great Britain (SARs)

@@ -1,5 +1,7 @@
 # GAN Experiments
 
+#### Note: this is just basic exploratory work at the moment
+
 This contains the jupyter notebook file and data to run the CTGAN implementation.
 The notebook 'CTGAN_Data_1991CensusSARS-V2.ipynb') contains some basic data analysis and a few runs of CTGAN to explore what it can do
 
